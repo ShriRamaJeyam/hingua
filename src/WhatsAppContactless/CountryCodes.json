@@ -245,7 +245,8 @@
         "flag": "🇨🇬"
     },
     {
-        "inputDisplay": "Congo, The Democratic Republic of the Congo",
+        "inputDisplay": "Congo",
+        "extended": "The Democratic Republic\nof the Congo",
         "value": "CD_243",
         "flag": "🇨🇩"
     },
@@ -495,7 +496,7 @@
         "flag": "🇮🇩"
     },
     {
-        "inputDisplay": "Iran, Islamic Republic of Persian Gulf",
+        "inputDisplay": "Iran",
         "value": "IR_98",
         "flag": "🇮🇷"
     },
@@ -560,12 +561,14 @@
         "flag": "🇰🇮"
     },
     {
-        "inputDisplay": "Korea, Democratic People's Republic of Korea",
+        "inputDisplay": "North Korea",
+        "extended": "Democratic People's \nRepublic of Korea",
         "value": "KP_850",
         "flag": "🇰🇵"
     },
     {
-        "inputDisplay": "Korea, Republic of South Korea",
+        "inputDisplay": "South Korea,",
+        "extended" : " Republic of South Korea",
         "value": "KR_82",
         "flag": "🇰🇷"
     },
@@ -695,7 +698,8 @@
         "flag": "🇲🇽"
     },
     {
-        "inputDisplay": "Micronesia, Federated States of Micronesia",
+        "inputDisplay": "Micronesia",
+        "extended": "Federated States of Micronesia",
         "value": "FM_691",
         "flag": "🇫🇲"
     },
@@ -904,7 +908,8 @@
         "flag": "🇧🇱"
     },
     {
-        "inputDisplay": "Saint Helena, Ascension and Tristan Da Cunha",
+        "inputDisplay": "Saint Helena",
+        "extended": "Ascension and Tristan Da Cunha",
         "value": "SH_290",
         "flag": "🇸🇭"
     },
@@ -1009,8 +1014,13 @@
         "flag": "🇸🇸"
     },
     {
-        "inputDisplay": "South Georgia and the South Sandwich Islands",
-        "value": "GS_500",
+        "inputDisplay": "South Georgia",
+        "value": "GS_500_a",
+        "flag": "🇬🇸"
+    },
+    {
+        "inputDisplay": "South Sandwich Islands",
+        "value": "GS_500_b",
         "flag": "🇬🇸"
     },
     {
@@ -1069,7 +1079,8 @@
         "flag": "🇹🇯"
     },
     {
-        "inputDisplay": "Tanzania, United Republic of Tanzania",
+        "inputDisplay": "Tanzania",
+        "extended": "United Republic\n of Tanzania",
         "value": "TZ_255",
         "flag": "🇹🇿"
     },
@@ -1169,7 +1180,7 @@
         "flag": "🇻🇺"
     },
     {
-        "inputDisplay": "Venezuela, Bolivarian Republic of Venezuela",
+        "inputDisplay": "Venezuela",
         "value": "VE_58",
         "flag": "🇻🇪"
     },

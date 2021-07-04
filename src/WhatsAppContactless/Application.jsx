@@ -59,6 +59,7 @@ class Application extends React.Component {
                 <Label>
                     {"Select Country"}
                     <Select
+                        multiline
                         items={CountryCodes}
                         itemRenderer={(item) => {
                             return <MenuItem
