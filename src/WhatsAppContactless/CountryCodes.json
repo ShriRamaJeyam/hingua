@@ -1,0 +1,1211 @@
+[
+    {
+        "inputDisplay": "Afghanistan",
+        "value": "AF_93",
+        "flag": "🇦🇫"
+    },
+    {
+        "inputDisplay": "Aland Islands",
+        "value": "AX_358",
+        "flag": "🇦🇽"
+    },
+    {
+        "inputDisplay": "Albania",
+        "value": "AL_355",
+        "flag": "🇦🇱"
+    },
+    {
+        "inputDisplay": "Algeria",
+        "value": "DZ_213",
+        "flag": "🇩🇿"
+    },
+    {
+        "inputDisplay": "AmericanSamoa",
+        "value": "AS_1684",
+        "flag": "🇦🇸"
+    },
+    {
+        "inputDisplay": "Andorra",
+        "value": "AD_376",
+        "flag": "🇦🇩"
+    },
+    {
+        "inputDisplay": "Angola",
+        "value": "AO_244",
+        "flag": "🇦🇴"
+    },
+    {
+        "inputDisplay": "Anguilla",
+        "value": "AI_1264",
+        "flag": "🇦🇮"
+    },
+    {
+        "inputDisplay": "Antarctica",
+        "value": "AQ_672",
+        "flag": "🇦🇶"
+    },
+    {
+        "inputDisplay": "Antigua and Barbuda",
+        "value": "AG_1268",
+        "flag": "🇦🇬"
+    },
+    {
+        "inputDisplay": "Argentina",
+        "value": "AR_54",
+        "flag": "🇦🇷"
+    },
+    {
+        "inputDisplay": "Armenia",
+        "value": "AM_374",
+        "flag": "🇦🇲"
+    },
+    {
+        "inputDisplay": "Aruba",
+        "value": "AW_297",
+        "flag": "🇦🇼"
+    },
+    {
+        "inputDisplay": "Australia",
+        "value": "AU_61",
+        "flag": "🇦🇺"
+    },
+    {
+        "inputDisplay": "Austria",
+        "value": "AT_43",
+        "flag": "🇦🇹"
+    },
+    {
+        "inputDisplay": "Azerbaijan",
+        "value": "AZ_994",
+        "flag": "🇦🇿"
+    },
+    {
+        "inputDisplay": "Bahamas",
+        "value": "BS_1242",
+        "flag": "🇧🇸"
+    },
+    {
+        "inputDisplay": "Bahrain",
+        "value": "BH_973",
+        "flag": "🇧🇭"
+    },
+    {
+        "inputDisplay": "Bangladesh",
+        "value": "BD_880",
+        "flag": "🇧🇩"
+    },
+    {
+        "inputDisplay": "Barbados",
+        "value": "BB_1246",
+        "flag": "🇧🇧"
+    },
+    {
+        "inputDisplay": "Belarus",
+        "value": "BY_375",
+        "flag": "🇧🇾"
+    },
+    {
+        "inputDisplay": "Belgium",
+        "value": "BE_32",
+        "flag": "🇧🇪"
+    },
+    {
+        "inputDisplay": "Belize",
+        "value": "BZ_501",
+        "flag": "🇧🇿"
+    },
+    {
+        "inputDisplay": "Benin",
+        "value": "BJ_229",
+        "flag": "🇧🇯"
+    },
+    {
+        "inputDisplay": "Bermuda",
+        "value": "BM_1441",
+        "flag": "🇧🇲"
+    },
+    {
+        "inputDisplay": "Bhutan",
+        "value": "BT_975",
+        "flag": "🇧🇹"
+    },
+    {
+        "inputDisplay": "Bolivia, Plurinational State of",
+        "value": "BO_591",
+        "flag": "🇧🇴"
+    },
+    {
+        "inputDisplay": "Bosnia and Herzegovina",
+        "value": "BA_387",
+        "flag": "🇧🇦"
+    },
+    {
+        "inputDisplay": "Botswana",
+        "value": "BW_267",
+        "flag": "🇧🇼"
+    },
+    {
+        "inputDisplay": "Brazil",
+        "value": "BR_55",
+        "flag": "🇧🇷"
+    },
+    {
+        "inputDisplay": "British Indian Ocean Territory",
+        "value": "IO_246",
+        "flag": "🇮🇴"
+    },
+    {
+        "inputDisplay": "Brunei Darussalam",
+        "value": "BN_673",
+        "flag": "🇧🇳"
+    },
+    {
+        "inputDisplay": "Bulgaria",
+        "value": "BG_359",
+        "flag": "🇧🇬"
+    },
+    {
+        "inputDisplay": "Burkina Faso",
+        "value": "BF_226",
+        "flag": "🇧🇫"
+    },
+    {
+        "inputDisplay": "Burundi",
+        "value": "BI_257",
+        "flag": "🇧🇮"
+    },
+    {
+        "inputDisplay": "Cambodia",
+        "value": "KH_855",
+        "flag": "🇰🇭"
+    },
+    {
+        "inputDisplay": "Cameroon",
+        "value": "CM_237",
+        "flag": "🇨🇲"
+    },
+    {
+        "inputDisplay": "Canada",
+        "value": "CA_1",
+        "flag": "🇨🇦"
+    },
+    {
+        "inputDisplay": "Cape Verde",
+        "value": "CV_238",
+        "flag": "🇨🇻"
+    },
+    {
+        "inputDisplay": "Cayman Islands",
+        "value": "KY_345",
+        "flag": "🇰🇾"
+    },
+    {
+        "inputDisplay": "Central African Republic",
+        "value": "CF_236",
+        "flag": "🇨🇫"
+    },
+    {
+        "inputDisplay": "Chad",
+        "value": "TD_235",
+        "flag": "🇹🇩"
+    },
+    {
+        "inputDisplay": "Chile",
+        "value": "CL_56",
+        "flag": "🇨🇱"
+    },
+    {
+        "inputDisplay": "China",
+        "value": "CN_86",
+        "flag": "🇨🇳"
+    },
+    {
+        "inputDisplay": "Christmas Island",
+        "value": "CX_61",
+        "flag": "🇨🇽"
+    },
+    {
+        "inputDisplay": "Cocos (Keeling) Islands",
+        "value": "CC_61",
+        "flag": "🇨🇨"
+    },
+    {
+        "inputDisplay": "Colombia",
+        "value": "CO_57",
+        "flag": "🇨🇴"
+    },
+    {
+        "inputDisplay": "Comoros",
+        "value": "KM_269",
+        "flag": "🇰🇲"
+    },
+    {
+        "inputDisplay": "Congo",
+        "value": "CG_242",
+        "flag": "🇨🇬"
+    },
+    {
+        "inputDisplay": "Congo, The Democratic Republic of the Congo",
+        "value": "CD_243",
+        "flag": "🇨🇩"
+    },
+    {
+        "inputDisplay": "Cook Islands",
+        "value": "CK_682",
+        "flag": "🇨🇰"
+    },
+    {
+        "inputDisplay": "Costa Rica",
+        "value": "CR_506",
+        "flag": "🇨🇷"
+    },
+    {
+        "inputDisplay": "Cote d'Ivoire",
+        "value": "CI_225",
+        "flag": "🇨🇮"
+    },
+    {
+        "inputDisplay": "Croatia",
+        "value": "HR_385",
+        "flag": "🇭🇷"
+    },
+    {
+        "inputDisplay": "Cuba",
+        "value": "CU_53",
+        "flag": "🇨🇺"
+    },
+    {
+        "inputDisplay": "Cyprus",
+        "value": "CY_357",
+        "flag": "🇨🇾"
+    },
+    {
+        "inputDisplay": "Czech Republic",
+        "value": "CZ_420",
+        "flag": "🇨🇿"
+    },
+    {
+        "inputDisplay": "Denmark",
+        "value": "DK_45",
+        "flag": "🇩🇰"
+    },
+    {
+        "inputDisplay": "Djibouti",
+        "value": "DJ_253",
+        "flag": "🇩🇯"
+    },
+    {
+        "inputDisplay": "Dominica",
+        "value": "DM_1767",
+        "flag": "🇩🇲"
+    },
+    {
+        "inputDisplay": "Dominican Republic",
+        "value": "DO_1849",
+        "flag": "🇩🇴"
+    },
+    {
+        "inputDisplay": "Ecuador",
+        "value": "EC_593",
+        "flag": "🇪🇨"
+    },
+    {
+        "inputDisplay": "Egypt",
+        "value": "EG_20",
+        "flag": "🇪🇬"
+    },
+    {
+        "inputDisplay": "El Salvador",
+        "value": "SV_503",
+        "flag": "🇸🇻"
+    },
+    {
+        "inputDisplay": "Equatorial Guinea",
+        "value": "GQ_240",
+        "flag": "🇬🇶"
+    },
+    {
+        "inputDisplay": "Eritrea",
+        "value": "ER_291",
+        "flag": "🇪🇷"
+    },
+    {
+        "inputDisplay": "Estonia",
+        "value": "EE_372",
+        "flag": "🇪🇪"
+    },
+    {
+        "inputDisplay": "Ethiopia",
+        "value": "ET_251",
+        "flag": "🇪🇹"
+    },
+    {
+        "inputDisplay": "Falkland Islands (Malvinas)",
+        "value": "FK_500",
+        "flag": "🇫🇰"
+    },
+    {
+        "inputDisplay": "Faroe Islands",
+        "value": "FO_298",
+        "flag": "🇫🇴"
+    },
+    {
+        "inputDisplay": "Fiji",
+        "value": "FJ_679",
+        "flag": "🇫🇯"
+    },
+    {
+        "inputDisplay": "Finland",
+        "value": "FI_358",
+        "flag": "🇫🇮"
+    },
+    {
+        "inputDisplay": "France",
+        "value": "FR_33",
+        "flag": "🇫🇷"
+    },
+    {
+        "inputDisplay": "French Guiana",
+        "value": "GF_594",
+        "flag": "🇬🇫"
+    },
+    {
+        "inputDisplay": "French Polynesia",
+        "value": "PF_689",
+        "flag": "🇵🇫"
+    },
+    {
+        "inputDisplay": "Gabon",
+        "value": "GA_241",
+        "flag": "🇬🇦"
+    },
+    {
+        "inputDisplay": "Gambia",
+        "value": "GM_220",
+        "flag": "🇬🇲"
+    },
+    {
+        "inputDisplay": "Georgia",
+        "value": "GE_995",
+        "flag": "🇬🇪"
+    },
+    {
+        "inputDisplay": "Germany",
+        "value": "DE_49",
+        "flag": "🇩🇪"
+    },
+    {
+        "inputDisplay": "Ghana",
+        "value": "GH_233",
+        "flag": "🇬🇭"
+    },
+    {
+        "inputDisplay": "Gibraltar",
+        "value": "GI_350",
+        "flag": "🇬🇮"
+    },
+    {
+        "inputDisplay": "Greece",
+        "value": "GR_30",
+        "flag": "🇬🇷"
+    },
+    {
+        "inputDisplay": "Greenland",
+        "value": "GL_299",
+        "flag": "🇬🇱"
+    },
+    {
+        "inputDisplay": "Grenada",
+        "value": "GD_1473",
+        "flag": "🇬🇩"
+    },
+    {
+        "inputDisplay": "Guadeloupe",
+        "value": "GP_590",
+        "flag": "🇬🇵"
+    },
+    {
+        "inputDisplay": "Guam",
+        "value": "GU_1671",
+        "flag": "🇬🇺"
+    },
+    {
+        "inputDisplay": "Guatemala",
+        "value": "GT_502",
+        "flag": "🇬🇹"
+    },
+    {
+        "inputDisplay": "Guernsey",
+        "value": "GG_44",
+        "flag": "🇬🇬"
+    },
+    {
+        "inputDisplay": "Guinea",
+        "value": "GN_224",
+        "flag": "🇬🇳"
+    },
+    {
+        "inputDisplay": "Guinea-Bissau",
+        "value": "GW_245",
+        "flag": "🇬🇼"
+    },
+    {
+        "inputDisplay": "Guyana",
+        "value": "GY_595",
+        "flag": "🇬🇾"
+    },
+    {
+        "inputDisplay": "Haiti",
+        "value": "HT_509",
+        "flag": "🇭🇹"
+    },
+    {
+        "inputDisplay": "Holy See (Vatican City State)",
+        "value": "VA_379",
+        "flag": "🇻🇦"
+    },
+    {
+        "inputDisplay": "Honduras",
+        "value": "HN_504",
+        "flag": "🇭🇳"
+    },
+    {
+        "inputDisplay": "Hong Kong",
+        "value": "HK_852",
+        "flag": "🇭🇰"
+    },
+    {
+        "inputDisplay": "Hungary",
+        "value": "HU_36",
+        "flag": "🇭🇺"
+    },
+    {
+        "inputDisplay": "Iceland",
+        "value": "IS_354",
+        "flag": "🇮🇸"
+    },
+    {
+        "inputDisplay": "India",
+        "value": "IN_91",
+        "flag": "🇮🇳"
+    },
+    {
+        "inputDisplay": "Indonesia",
+        "value": "ID_62",
+        "flag": "🇮🇩"
+    },
+    {
+        "inputDisplay": "Iran, Islamic Republic of Persian Gulf",
+        "value": "IR_98",
+        "flag": "🇮🇷"
+    },
+    {
+        "inputDisplay": "Iraq",
+        "value": "IQ_964",
+        "flag": "🇮🇶"
+    },
+    {
+        "inputDisplay": "Ireland",
+        "value": "IE_353",
+        "flag": "🇮🇪"
+    },
+    {
+        "inputDisplay": "Isle of Man",
+        "value": "IM_44",
+        "flag": "🇮🇲"
+    },
+    {
+        "inputDisplay": "Israel",
+        "value": "IL_972",
+        "flag": "🇮🇱"
+    },
+    {
+        "inputDisplay": "Italy",
+        "value": "IT_39",
+        "flag": "🇮🇹"
+    },
+    {
+        "inputDisplay": "Jamaica",
+        "value": "JM_1876",
+        "flag": "🇯🇲"
+    },
+    {
+        "inputDisplay": "Japan",
+        "value": "JP_81",
+        "flag": "🇯🇵"
+    },
+    {
+        "inputDisplay": "Jersey",
+        "value": "JE_44",
+        "flag": "🇯🇪"
+    },
+    {
+        "inputDisplay": "Jordan",
+        "value": "JO_962",
+        "flag": "🇯🇴"
+    },
+    {
+        "inputDisplay": "Kazakhstan",
+        "value": "KZ_77",
+        "flag": "🇰🇿"
+    },
+    {
+        "inputDisplay": "Kenya",
+        "value": "KE_254",
+        "flag": "🇰🇪"
+    },
+    {
+        "inputDisplay": "Kiribati",
+        "value": "KI_686",
+        "flag": "🇰🇮"
+    },
+    {
+        "inputDisplay": "Korea, Democratic People's Republic of Korea",
+        "value": "KP_850",
+        "flag": "🇰🇵"
+    },
+    {
+        "inputDisplay": "Korea, Republic of South Korea",
+        "value": "KR_82",
+        "flag": "🇰🇷"
+    },
+    {
+        "inputDisplay": "Kuwait",
+        "value": "KW_965",
+        "flag": "🇰🇼"
+    },
+    {
+        "inputDisplay": "Kyrgyzstan",
+        "value": "KG_996",
+        "flag": "🇰🇬"
+    },
+    {
+        "inputDisplay": "Laos",
+        "value": "LA_856",
+        "flag": "🇱🇦"
+    },
+    {
+        "inputDisplay": "Latvia",
+        "value": "LV_371",
+        "flag": "🇱🇻"
+    },
+    {
+        "inputDisplay": "Lebanon",
+        "value": "LB_961",
+        "flag": "🇱🇧"
+    },
+    {
+        "inputDisplay": "Lesotho",
+        "value": "LS_266",
+        "flag": "🇱🇸"
+    },
+    {
+        "inputDisplay": "Liberia",
+        "value": "LR_231",
+        "flag": "🇱🇷"
+    },
+    {
+        "inputDisplay": "Libyan Arab Jamahiriya",
+        "value": "LY_218",
+        "flag": "🇱🇾"
+    },
+    {
+        "inputDisplay": "Liechtenstein",
+        "value": "LI_423",
+        "flag": "🇱🇮"
+    },
+    {
+        "inputDisplay": "Lithuania",
+        "value": "LT_370",
+        "flag": "🇱🇹"
+    },
+    {
+        "inputDisplay": "Luxembourg",
+        "value": "LU_352",
+        "flag": "🇱🇺"
+    },
+    {
+        "inputDisplay": "Macao",
+        "value": "MO_853",
+        "flag": "🇲🇴"
+    },
+    {
+        "inputDisplay": "Macedonia",
+        "value": "MK_389",
+        "flag": "🇲🇰"
+    },
+    {
+        "inputDisplay": "Madagascar",
+        "value": "MG_261",
+        "flag": "🇲🇬"
+    },
+    {
+        "inputDisplay": "Malawi",
+        "value": "MW_265",
+        "flag": "🇲🇼"
+    },
+    {
+        "inputDisplay": "Malaysia",
+        "value": "MY_60",
+        "flag": "🇲🇾"
+    },
+    {
+        "inputDisplay": "Maldives",
+        "value": "MV_960",
+        "flag": "🇲🇻"
+    },
+    {
+        "inputDisplay": "Mali",
+        "value": "ML_223",
+        "flag": "🇲🇱"
+    },
+    {
+        "inputDisplay": "Malta",
+        "value": "MT_356",
+        "flag": "🇲🇹"
+    },
+    {
+        "inputDisplay": "Marshall Islands",
+        "value": "MH_692",
+        "flag": "🇲🇭"
+    },
+    {
+        "inputDisplay": "Martinique",
+        "value": "MQ_596",
+        "flag": "🇲🇶"
+    },
+    {
+        "inputDisplay": "Mauritania",
+        "value": "MR_222",
+        "flag": "🇲🇷"
+    },
+    {
+        "inputDisplay": "Mauritius",
+        "value": "MU_230",
+        "flag": "🇲🇺"
+    },
+    {
+        "inputDisplay": "Mayotte",
+        "value": "YT_262",
+        "flag": "🇾🇹"
+    },
+    {
+        "inputDisplay": "Mexico",
+        "value": "MX_52",
+        "flag": "🇲🇽"
+    },
+    {
+        "inputDisplay": "Micronesia, Federated States of Micronesia",
+        "value": "FM_691",
+        "flag": "🇫🇲"
+    },
+    {
+        "inputDisplay": "Moldova",
+        "value": "MD_373",
+        "flag": "🇲🇩"
+    },
+    {
+        "inputDisplay": "Monaco",
+        "value": "MC_377",
+        "flag": "🇲🇨"
+    },
+    {
+        "inputDisplay": "Mongolia",
+        "value": "MN_976",
+        "flag": "🇲🇳"
+    },
+    {
+        "inputDisplay": "Montenegro",
+        "value": "ME_382",
+        "flag": "🇲🇪"
+    },
+    {
+        "inputDisplay": "Montserrat",
+        "value": "MS_1664",
+        "flag": "🇲🇸"
+    },
+    {
+        "inputDisplay": "Morocco",
+        "value": "MA_212",
+        "flag": "🇲🇦"
+    },
+    {
+        "inputDisplay": "Mozambique",
+        "value": "MZ_258",
+        "flag": "🇲🇿"
+    },
+    {
+        "inputDisplay": "Myanmar",
+        "value": "MM_95",
+        "flag": "🇲🇲"
+    },
+    {
+        "inputDisplay": "Namibia",
+        "value": "NA_264",
+        "flag": "🇳🇦"
+    },
+    {
+        "inputDisplay": "Nauru",
+        "value": "NR_674",
+        "flag": "🇳🇷"
+    },
+    {
+        "inputDisplay": "Nepal",
+        "value": "NP_977",
+        "flag": "🇳🇵"
+    },
+    {
+        "inputDisplay": "Netherlands",
+        "value": "NL_31",
+        "flag": "🇳🇱"
+    },
+    {
+        "inputDisplay": "Netherlands Antilles",
+        "value": "AN_599"
+    },
+    {
+        "inputDisplay": "New Caledonia",
+        "value": "NC_687",
+        "flag": "🇳🇨"
+    },
+    {
+        "inputDisplay": "New Zealand",
+        "value": "NZ_64",
+        "flag": "🇳🇿"
+    },
+    {
+        "inputDisplay": "Nicaragua",
+        "value": "NI_505",
+        "flag": "🇳🇮"
+    },
+    {
+        "inputDisplay": "Niger",
+        "value": "NE_227",
+        "flag": "🇳🇪"
+    },
+    {
+        "inputDisplay": "Nigeria",
+        "value": "NG_234",
+        "flag": "🇳🇬"
+    },
+    {
+        "inputDisplay": "Niue",
+        "value": "NU_683",
+        "flag": "🇳🇺"
+    },
+    {
+        "inputDisplay": "Norfolk Island",
+        "value": "NF_672",
+        "flag": "🇳🇫"
+    },
+    {
+        "inputDisplay": "Northern Mariana Islands",
+        "value": "MP_1670",
+        "flag": "🇲🇵"
+    },
+    {
+        "inputDisplay": "Norway",
+        "value": "NO_47",
+        "flag": "🇳🇴"
+    },
+    {
+        "inputDisplay": "Oman",
+        "value": "OM_968",
+        "flag": "🇴🇲"
+    },
+    {
+        "inputDisplay": "Pakistan",
+        "value": "PK_92",
+        "flag": "🇵🇰"
+    },
+    {
+        "inputDisplay": "Palau",
+        "value": "PW_680",
+        "flag": "🇵🇼"
+    },
+    {
+        "inputDisplay": "Palestinian Territory, Occupied",
+        "value": "PS_970",
+        "flag": "🇵🇸"
+    },
+    {
+        "inputDisplay": "Panama",
+        "value": "PA_507",
+        "flag": "🇵🇦"
+    },
+    {
+        "inputDisplay": "Papua New Guinea",
+        "value": "PG_675",
+        "flag": "🇵🇬"
+    },
+    {
+        "inputDisplay": "Paraguay",
+        "value": "PY_595",
+        "flag": "🇵🇾"
+    },
+    {
+        "inputDisplay": "Peru",
+        "value": "PE_51",
+        "flag": "🇵🇪"
+    },
+    {
+        "inputDisplay": "Philippines",
+        "value": "PH_63",
+        "flag": "🇵🇭"
+    },
+    {
+        "inputDisplay": "Pitcairn",
+        "value": "PN_872",
+        "flag": "🇵🇳"
+    },
+    {
+        "inputDisplay": "Poland",
+        "value": "PL_48",
+        "flag": "🇵🇱"
+    },
+    {
+        "inputDisplay": "Portugal",
+        "value": "PT_351",
+        "flag": "🇵🇹"
+    },
+    {
+        "inputDisplay": "Puerto Rico",
+        "value": "PR_1939",
+        "flag": "🇵🇷"
+    },
+    {
+        "inputDisplay": "Qatar",
+        "value": "QA_974",
+        "flag": "🇶🇦"
+    },
+    {
+        "inputDisplay": "Romania",
+        "value": "RO_40",
+        "flag": "🇷🇴"
+    },
+    {
+        "inputDisplay": "Russia",
+        "value": "RU_7",
+        "flag": "🇷🇺"
+    },
+    {
+        "inputDisplay": "Rwanda",
+        "value": "RW_250",
+        "flag": "🇷🇼"
+    },
+    {
+        "inputDisplay": "Reunion",
+        "value": "RE_262",
+        "flag": "🇷🇪"
+    },
+    {
+        "inputDisplay": "Saint Barthelemy",
+        "value": "BL_590",
+        "flag": "🇧🇱"
+    },
+    {
+        "inputDisplay": "Saint Helena, Ascension and Tristan Da Cunha",
+        "value": "SH_290",
+        "flag": "🇸🇭"
+    },
+    {
+        "inputDisplay": "Saint Kitts and Nevis",
+        "value": "KN_1869",
+        "flag": "🇰🇳"
+    },
+    {
+        "inputDisplay": "Saint Lucia",
+        "value": "LC_1758",
+        "flag": "🇱🇨"
+    },
+    {
+        "inputDisplay": "Saint Martin",
+        "value": "MF_590",
+        "flag": "🇲🇫"
+    },
+    {
+        "inputDisplay": "Saint Pierre and Miquelon",
+        "value": "PM_508",
+        "flag": "🇵🇲"
+    },
+    {
+        "inputDisplay": "Saint Vincent and the Grenadines",
+        "value": "VC_1784",
+        "flag": "🇻🇨"
+    },
+    {
+        "inputDisplay": "Samoa",
+        "value": "WS_685",
+        "flag": "🇼🇸"
+    },
+    {
+        "inputDisplay": "San Marino",
+        "value": "SM_378",
+        "flag": "🇸🇲"
+    },
+    {
+        "inputDisplay": "Sao Tome and Principe",
+        "value": "ST_239",
+        "flag": "🇸🇹"
+    },
+    {
+        "inputDisplay": "Saudi Arabia",
+        "value": "SA_966",
+        "flag": "🇸🇦"
+    },
+    {
+        "inputDisplay": "Senegal",
+        "value": "SN_221",
+        "flag": "🇸🇳"
+    },
+    {
+        "inputDisplay": "Serbia",
+        "value": "RS_381",
+        "flag": "🇷🇸"
+    },
+    {
+        "inputDisplay": "Seychelles",
+        "value": "SC_248",
+        "flag": "🇸🇨"
+    },
+    {
+        "inputDisplay": "Sierra Leone",
+        "value": "SL_232",
+        "flag": "🇸🇱"
+    },
+    {
+        "inputDisplay": "Singapore",
+        "value": "SG_65",
+        "flag": "🇸🇬"
+    },
+    {
+        "inputDisplay": "Slovakia",
+        "value": "SK_421",
+        "flag": "🇸🇰"
+    },
+    {
+        "inputDisplay": "Slovenia",
+        "value": "SI_386",
+        "flag": "🇸🇮"
+    },
+    {
+        "inputDisplay": "Solomon Islands",
+        "value": "SB_677",
+        "flag": "🇸🇧"
+    },
+    {
+        "inputDisplay": "Somalia",
+        "value": "SO_252",
+        "flag": "🇸🇴"
+    },
+    {
+        "inputDisplay": "South Africa",
+        "value": "ZA_27",
+        "flag": "🇿🇦"
+    },
+    {
+        "inputDisplay": "South Sudan",
+        "value": "SS_211",
+        "flag": "🇸🇸"
+    },
+    {
+        "inputDisplay": "South Georgia and the South Sandwich Islands",
+        "value": "GS_500",
+        "flag": "🇬🇸"
+    },
+    {
+        "inputDisplay": "Spain",
+        "value": "ES_34",
+        "flag": "🇪🇸"
+    },
+    {
+        "inputDisplay": "Sri Lanka",
+        "value": "LK_94",
+        "flag": "🇱🇰"
+    },
+    {
+        "inputDisplay": "Sudan",
+        "value": "SD_249",
+        "flag": "🇸🇩"
+    },
+    {
+        "inputDisplay": "Suriname",
+        "value": "SR_597",
+        "flag": "🇸🇷"
+    },
+    {
+        "inputDisplay": "Svalbard and Jan Mayen",
+        "value": "SJ_47",
+        "flag": "🇸🇯"
+    },
+    {
+        "inputDisplay": "Swaziland",
+        "value": "SZ_268",
+        "flag": "🇸🇿"
+    },
+    {
+        "inputDisplay": "Sweden",
+        "value": "SE_46",
+        "flag": "🇸🇪"
+    },
+    {
+        "inputDisplay": "Switzerland",
+        "value": "CH_41",
+        "flag": "🇨🇭"
+    },
+    {
+        "inputDisplay": "Syrian Arab Republic",
+        "value": "SY_963",
+        "flag": "🇸🇾"
+    },
+    {
+        "inputDisplay": "Taiwan",
+        "value": "TW_886",
+        "flag": "🇹🇼"
+    },
+    {
+        "inputDisplay": "Tajikistan",
+        "value": "TJ_992",
+        "flag": "🇹🇯"
+    },
+    {
+        "inputDisplay": "Tanzania, United Republic of Tanzania",
+        "value": "TZ_255",
+        "flag": "🇹🇿"
+    },
+    {
+        "inputDisplay": "Thailand",
+        "value": "TH_66",
+        "flag": "🇹🇭"
+    },
+    {
+        "inputDisplay": "Timor-Leste",
+        "value": "TL_670",
+        "flag": "🇹🇱"
+    },
+    {
+        "inputDisplay": "Togo",
+        "value": "TG_228",
+        "flag": "🇹🇬"
+    },
+    {
+        "inputDisplay": "Tokelau",
+        "value": "TK_690",
+        "flag": "🇹🇰"
+    },
+    {
+        "inputDisplay": "Tonga",
+        "value": "TO_676",
+        "flag": "🇹🇴"
+    },
+    {
+        "inputDisplay": "Trinidad and Tobago",
+        "value": "TT_1868",
+        "flag": "🇹🇹"
+    },
+    {
+        "inputDisplay": "Tunisia",
+        "value": "TN_216",
+        "flag": "🇹🇳"
+    },
+    {
+        "inputDisplay": "Turkey",
+        "value": "TR_90",
+        "flag": "🇹🇷"
+    },
+    {
+        "inputDisplay": "Turkmenistan",
+        "value": "TM_993",
+        "flag": "🇹🇲"
+    },
+    {
+        "inputDisplay": "Turks and Caicos Islands",
+        "value": "TC_1649",
+        "flag": "🇹🇨"
+    },
+    {
+        "inputDisplay": "Tuvalu",
+        "value": "TV_688",
+        "flag": "🇹🇻"
+    },
+    {
+        "inputDisplay": "Uganda",
+        "value": "UG_256",
+        "flag": "🇺🇬"
+    },
+    {
+        "inputDisplay": "Ukraine",
+        "value": "UA_380",
+        "flag": "🇺🇦"
+    },
+    {
+        "inputDisplay": "United Arab Emirates",
+        "value": "AE_971",
+        "flag": "🇦🇪"
+    },
+    {
+        "inputDisplay": "United Kingdom",
+        "value": "GB_44",
+        "flag": "🇬🇧"
+    },
+    {
+        "inputDisplay": "United States",
+        "value": "US_1",
+        "flag": "🇺🇸"
+    },
+    {
+        "inputDisplay": "Uruguay",
+        "value": "UY_598",
+        "flag": "🇺🇾"
+    },
+    {
+        "inputDisplay": "Uzbekistan",
+        "value": "UZ_998",
+        "flag": "🇺🇿"
+    },
+    {
+        "inputDisplay": "Vanuatu",
+        "value": "VU_678",
+        "flag": "🇻🇺"
+    },
+    {
+        "inputDisplay": "Venezuela, Bolivarian Republic of Venezuela",
+        "value": "VE_58",
+        "flag": "🇻🇪"
+    },
+    {
+        "inputDisplay": "Vietnam",
+        "value": "VN_84",
+        "flag": "🇻🇳"
+    },
+    {
+        "inputDisplay": "Virgin Islands, British",
+        "value": "VG_1284",
+        "flag": "🇻🇬"
+    },
+    {
+        "inputDisplay": "Virgin Islands, U.S.",
+        "value": "VI_1340",
+        "flag": "🇻🇮"
+    },
+    {
+        "inputDisplay": "Wallis and Futuna",
+        "value": "WF_681",
+        "flag": "🇼🇫"
+    },
+    {
+        "inputDisplay": "Yemen",
+        "value": "YE_967",
+        "flag": "🇾🇪"
+    },
+    {
+        "inputDisplay": "Zambia",
+        "value": "ZM_260",
+        "flag": "🇿🇲"
+    },
+    {
+        "inputDisplay": "Zimbabwe",
+        "value": "ZW_263",
+        "flag": "🇿🇼"
+    }
+]
