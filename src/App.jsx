@@ -6,6 +6,9 @@ import {
     Route,
     Redirect
 } from "react-router-dom";
+import HomePage from "./Homepage";
+import AstroHomePage from "./Astro";
+import NaligaiHelper from "./Astro/NaaligaiHelper";
 
 export default function App(props) {
     return (
@@ -14,9 +17,16 @@ export default function App(props) {
                 <Route path="/wa-messenger">
                     <WhatsAppContactless />
                 </Route>
-                <Route path="/">
-                    <Redirect to="/wa-messenger" />
+                <Route path="/astro/naaligai-helper">
+                    <NaligaiHelper />
                 </Route>
+                <Route path="/astro">
+                    <AstroHomePage />
+                </Route>
+                <Route path="/">
+                    <HomePage />
+                </Route>
+
             </Switch>
         </Router>
     );
